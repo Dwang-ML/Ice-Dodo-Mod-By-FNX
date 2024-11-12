@@ -1,0 +1,26 @@
+{
+   "action": {
+      "default_icon": "assets/icons/icon.png",
+      "default_popup": "index.html"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "description": "Play 3D game easily by clicking the little icon at the top right corner of your browser.",
+   "differential_fingerprint": "1.3b5daf9344962ed699168cfb297c73f8b326367ff74e8510319f4b9cbbaef05d",
+   "externally_connectable": {
+      "matches": [ "https://*.onionfist.com/*" ]
+   },
+   "icons": {
+      "128": "assets/icons/icon128.png",
+      "16": "assets/icons/icon16.png",
+      "48": "assets/icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFjkOCAQ8AMIIBCgKCAQEAwB3V/uT8U9xtQFoJIcndfixhNRsnlWc/f16Y/WpCBt+H3qcJSUKnfPOGFT+NTKlZcMUhnWo2Phh1VCV0gEazlPUC06CgITEteLrdY5+OZZdlm9vC7DTtRmmFGNgBYrUKgfoXSsviIkoA10T20qUD8Wqspsbykj9gYY9J65Qe0TsILUw22enPIfKmtS+JkJlLCQAkQJsuBaa0qRQqq9jpHkmiD7rucPhz9gt5taT0sVL2/g+2NGiF0x5LDnY1fxpohuEprkARR7bql77gPpjXqcd12LPWKTafRXA0R9kJ0sBZWjb2ea1ICCmRz9NOLuxhamZ8fLIE5+aaPBDKG4d9KQIDAQAB",
+   "manifest_version": 3,
+   "name": "Ice Dodo Mod By FNX",
+   "permissions": [ "storage" ],
+   "short_name": "Ice Dodo MOD",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}
